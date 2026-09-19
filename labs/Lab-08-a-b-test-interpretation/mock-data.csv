@@ -1,0 +1,6 @@
+concept,metric,baseline,variant_a,variant_b,unit,data_status,consent
+A/B test interpretation,Conversion rate,1.2,1.6,2.0,illustrative only,synthetic,not applicable
+AI-assisted report narrative,Actionable insights,2.0,4.0,6.0,illustrative only,synthetic,not applicable
+Retargeting eligibility,Recovered leads,6.0,11.0,17.0,illustrative only,synthetic,not applicable
+Budget reallocation,Qualified leads,14.0,20.0,27.0,illustrative only,synthetic,not applicable
+Organisational impact review,Hours saved,4.0,8.0,12.0,illustrative only,synthetic,not applicable

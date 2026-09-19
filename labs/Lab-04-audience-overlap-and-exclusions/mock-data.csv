@@ -1,0 +1,6 @@
+concept,metric,baseline,variant_a,variant_b,unit,data_status,consent
+Audience overlap and exclusions,Unique reach,1200.0,1600.0,1950.0,illustrative only,synthetic,not applicable
+Local market relevance,Local relevance,61.0,76.0,88.0,illustrative only,synthetic,not applicable
+Opportunity sizing,Expected leads,20.0,34.0,46.0,illustrative only,synthetic,not applicable
+Platform privacy fit,Consented events,40.0,65.0,86.0,illustrative only,synthetic,not applicable
+Pilot test design,Conversion rate,1.1,1.5,2.0,illustrative only,synthetic,not applicable

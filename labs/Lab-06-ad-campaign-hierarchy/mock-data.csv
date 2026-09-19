@@ -1,0 +1,6 @@
+concept,metric,baseline,variant_a,variant_b,unit,data_status,consent
+Ad campaign hierarchy,Lead rate,1.4,2.0,2.6,illustrative only,synthetic,not applicable
+Budget and schedule controls,Cost per lead,34.0,28.0,22.0,illustrative only,synthetic,not applicable
+Content calendar orchestration,On-time posts,55.0,72.0,90.0,illustrative only,synthetic,not applicable
+UGC rights workflow,Approved UGC,4.0,7.0,10.0,illustrative only,synthetic,not applicable
+Community response triage,Resolved cases,14.0,21.0,28.0,illustrative only,synthetic,not applicable

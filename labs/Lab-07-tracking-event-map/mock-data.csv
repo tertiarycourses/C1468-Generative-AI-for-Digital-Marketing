@@ -1,0 +1,6 @@
+concept,metric,baseline,variant_a,variant_b,unit,data_status,consent
+Tracking event map,Matched leads,35.0,52.0,68.0,illustrative only,synthetic,not applicable
+Metric hierarchy,Lead conversion,1.3,2.1,3.0,illustrative only,synthetic,not applicable
+CTR and CPC diagnosis,CTR,1.1,1.8,2.4,illustrative only,synthetic,not applicable
+CPA and ROAS diagnosis,ROAS,1.4,2.0,2.8,illustrative only,synthetic,not applicable
+Frequency and fatigue,Frequency,1.8,2.6,3.7,illustrative only,synthetic,not applicable
